@@ -18,7 +18,6 @@ server/
 ├── controllers/              # Business logic for routes
 ├── middleware/               # Custom middleware
 ├── models/                   # Database models (if applicable)
-├── node_modules/             # Dependencies (ignored in Git)
 ├── routes/                   # Route handlers
 ├── .env.development.local    # Local environment variables
 ├── .env.production.local     # Production environment variables
